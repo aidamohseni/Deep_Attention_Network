@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Deep Averaging Network (DAN)</title>
+ Deep Averaging Network (DAN)
 </head>
 <body>
 
